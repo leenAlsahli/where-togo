@@ -1,29 +1,27 @@
-# seProject
+# Where To Go
 
-This template should help get you started developing with Vue 3 in Vite.
+**Where To Go** is a smart tourism web application designed to help users discover and book local events across Saudi Arabia based on their current mood ، The system supports personalized event recommendations, favorites, mood-based themes, and a simple booking process.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Mood-based user interface (Light / Dark / Natural)
+- User registration and login
+- Browse and search events
+- Filter events by mood
+- Add events to favorites
+- View event details
+- Booking confirmation screen
+- Profile page with user information
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Technologies Used
 
-## Project Setup
+- **Frontend**: Vue.js
+- **Hosting**: GitHub
+- **Tools**: Vite, Node.js, CSS
 
-```sh
+## How to Run the Project Locally
+
+bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
